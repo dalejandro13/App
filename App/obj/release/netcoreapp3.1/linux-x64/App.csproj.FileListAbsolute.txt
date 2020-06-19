@@ -1,0 +1,10 @@
+C:\Users\Flexo\source\repos\App\App\bin\Release\netcoreapp3.1\linux-x64\App
+C:\Users\Flexo\source\repos\App\App\bin\Release\netcoreapp3.1\linux-x64\App.deps.json
+C:\Users\Flexo\source\repos\App\App\bin\Release\netcoreapp3.1\linux-x64\App.runtimeconfig.json
+C:\Users\Flexo\source\repos\App\App\bin\Release\netcoreapp3.1\linux-x64\App.runtimeconfig.dev.json
+C:\Users\Flexo\source\repos\App\App\bin\Release\netcoreapp3.1\linux-x64\App.dll
+C:\Users\Flexo\source\repos\App\App\bin\Release\netcoreapp3.1\linux-x64\App.pdb
+C:\Users\Flexo\source\repos\App\App\obj\Release\netcoreapp3.1\linux-x64\App.AssemblyInfoInputs.cache
+C:\Users\Flexo\source\repos\App\App\obj\Release\netcoreapp3.1\linux-x64\App.AssemblyInfo.cs
+C:\Users\Flexo\source\repos\App\App\obj\Release\netcoreapp3.1\linux-x64\App.dll
+C:\Users\Flexo\source\repos\App\App\obj\Release\netcoreapp3.1\linux-x64\App.pdb
